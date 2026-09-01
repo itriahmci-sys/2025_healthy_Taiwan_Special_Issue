@@ -1,14 +1,5 @@
 <html lang="zh-Hant">
 <head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NW3ZSP789E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-NW3ZSP789E');
-</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>2025 引領健康台灣新未來｜論壇彙刊 × 2030 願景</title>
@@ -669,6 +660,7 @@
       <div class="contact">
         <a class="btn" href="mailto:itriahmci@gmail.com">✉ itriahmci@gmail.com</a>
         <a class="btn ghost" href="mailto:SmartMedHealth@itri.org.tw">✉ SmartMedHealth@itri.org.tw</a>
+        <a class="btn ghost" href="https://itriahmci-sys.github.io/2025Q4_report/" target="_blank" rel="noopener">論壇演講精彩摘要</a>
       </div>
     </div>
   </div>
